@@ -1,4 +1,4 @@
-package Java_assignment;
+// 1. Write a java program to print your biodata?
 class Biodata{
 
     public static void main(String[] args) {
